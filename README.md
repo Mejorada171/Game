@@ -1,32 +1,34 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is helping me to undersatand a little bit more about the C# programming langueges and how we can use it to build amazing games, I know that to be a good software engineer we
+should understand most of the programming languages and be able to find solutions to certain problems.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+The program I wrote is a Text Adventure Game, this game allows the user to go trough a history and make choices about it, each decision could change the path of the adventure, in this program
+we attempt to provide an entretainment and an interesting story that trap the attention's user in the program. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I write this program to learn more a bout C#, how it works and how we could build amazing projects, I like to think that this programs would be the base of some greater programs in my carrer,
+there are times when I struggle with something in anew project and looking back to some last projects I made helped to undersatnd and fix the mistakes. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Microsoft Visual Studio 2022: A fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services. 
+* C#: A modern, open-source, cross-platform object-oriented programming language for the .NET developer platform with free tools for Linux, macOS, and Windows.
+* Git/Github: A cloud-based platform where you can store, share, and work together with others to write code.
+* Brother Walters' aid (LOL ??)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+List of helpful websites for this project 
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [w3schools](https://www.w3schools.com/cs/index.php)
+- [codecademy](https://www.codecademy.com/learn/learn-c-sharp)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- I try to add more lines of code to make the history a little bit longer.
+- I would like to make the program more interactive maybe more questions and funny things to make in the program. 
+- I guess I should use more classes on the program as well. 
