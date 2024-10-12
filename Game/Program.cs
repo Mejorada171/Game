@@ -47,6 +47,21 @@ else if (sideMountain == "2")
     // Prompt the user for a choice
     Console.Write("> ");
     string compassChoice = Console.ReadLine();
+    int compassint = int.Parse(compassChoice);
+
+
+    // While loop for displaying message
+    while (compassint == 1)
+    {
+        Console.WriteLine("Great!");
+        break;
+    }
+
+    while (compassint == 2)
+    {
+        Console.WriteLine("Oh! Oh!");
+        break;
+    }
 
     if (compassChoice == "1")
     {
